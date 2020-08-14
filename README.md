@@ -13,7 +13,7 @@
 
 (2) MAP에 등장하는 요소들을 정의한다.
 
-![요소](https://user-images.githubusercontent.com/68969252/88854891-fd66fb00-d22c-11ea-82fd-f50360b0dbdd.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88854891-fd66fb00-d22c-11ea-82fd-f50360b0dbdd.PNG" width="300">
 
 - Wall : Gate로 바뀔 수 있는 벽, 부딪히면 게임 오버
 - Immune Wall : Gate로 바뀔 수 없는 벽
@@ -26,13 +26,13 @@
 
 (3) Stage 개수 : 4개 > 1 Stage마다 1개의 MAP
 
-![1](https://user-images.githubusercontent.com/68969252/88857011-774cb380-d230-11ea-8e3a-3d65c5fcfa4f.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88857011-774cb380-d230-11ea-8e3a-3d65c5fcfa4f.PNG" width="650">
 
 #### 목표 2 : 화면 구성하기
 
 예시)
 
-![캡처](https://user-images.githubusercontent.com/68969252/88855796-584d2200-d22e-11ea-9b2a-3a7118255438.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88855796-584d2200-d22e-11ea-9b2a-3a7118255438.PNG" width="650">
 
 (1) 게임 설명 화면 출력하기
 
@@ -54,7 +54,7 @@
 #### 목표 2 : 사용자의 키보드 입력에 따라 이동방향 설정하기
 (1) 키보드 입력에 따라 이동방향 설정
 
-![3](https://user-images.githubusercontent.com/68969252/88857832-ed9de580-d231-11ea-8fed-957780245f1b.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88857832-ed9de580-d231-11ea-8fed-957780245f1b.PNG" width="270">
 
 (2) 사용자가 스네이크 진행 방향의 반대방향으로 키보드 입력을 할 경우 게임 오버
 
@@ -65,13 +65,13 @@
 
 (2) Growth Item 또는 Poison Item을 획득할 경우 스네이크 움직이기
 
-![4](https://user-images.githubusercontent.com/68969252/88858341-d0b5e200-d232-11ea-8534-b217fa0cb928.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88858341-d0b5e200-d232-11ea-8534-b217fa0cb928.PNG" width="500">
 
 - 스네이크 몸 길이가 2 이하가 되는 경우 게임오버
 
 (4) Gate를 만날 경우 스네이크 움직이기
 
-![5](https://user-images.githubusercontent.com/68969252/88858803-88e38a80-d233-11ea-9278-fe6e11a89829.PNG)
+<img src="https://user-images.githubusercontent.com/68969252/88858803-88e38a80-d233-11ea-9278-fe6e11a89829.PNG" width="400">
 
 (5) 벽을 만나는 경우 게임오버
 
