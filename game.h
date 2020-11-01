@@ -1,3 +1,5 @@
+#pragma once
+
 #include <ncurses.h>
 #include <vector>
 #include <locale.h>
@@ -5,6 +7,7 @@
 #include <unistd.h>
 #include <time.h>
 #include <string>
+#include "map.h"
 
 using namespace std;
 
@@ -16,12 +19,13 @@ WINDOW *win1, *win2, *win3;
 void color_init();
 void color();
 void score();
+void set_zero();
 void del_win();
 void make_snake();
 int set_Head_Direction();
 int move_Snake();
 void generate_item();
-int collision();
+int collision_gate();
 void generate_gate();
 int pass_the_gate();
 void NEXTGAME(int num);
