@@ -4,6 +4,20 @@
 
 여기서 Snake Game 이란 화면에 보이는 Snake를 플레이어가 직접 방향키를 통해 움직여 아이템들을 얻고 주어진 조건들을 모두 달성하는 게임이다.
 
+## 시현 영상 (2배속)
+![snake시현영상](https://user-images.githubusercontent.com/68969252/102793926-ef896080-43ed-11eb-9f1b-a7aed0a895ba.gif)
+
+## 컴파일/실행방법
+#### 컴파일
+Makefile에 snakegame 컴파일을 수행하는 스크립드가 들어가 있다.
+
+따라서 아래처럼 실행하면 알아서 결과물을 만들어낸다.
+
+$ make
+
+#### 실행방법
+$ ./snakegame
+
 ## 목표
 ### [1단계] - MAP
 
